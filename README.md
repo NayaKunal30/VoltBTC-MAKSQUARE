@@ -208,11 +208,6 @@ A: Braavos and ArgentX (Starknet wallets) are supported.
 
 ---
 
-## 📝 License
-MIT
-
----
-
 <p align="center">
   <b>Enjoy your DeFi journey with VoltBTC! 🚀</b>
 </p>
