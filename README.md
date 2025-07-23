@@ -32,24 +32,8 @@
 
 ## 🌟 What is VoltBTC?
 VoltBTC is a modular DeFi platform built on Starknet (Ethereum Layer 2) that helps you grow your Bitcoin (WBTC) through smart contracts, automated vaults, fixed-term bonds, community strategies, and integrated DeFi education. It’s designed for everyone—from total beginners to DeFi pros.
-
 ## VoltBTC in one Paragraph to Understand :
-<div style="
-  color: #d400ff;
-  background-color: #0a0a0a;
-  padding: 20px;
-  border-radius: 12px;
-  font-size: 16px;
-  font-weight: 600;
-  line-height: 1.6;
-  text-align: justify;
-  text-shadow: 0 0 3px #d400ff, 0 0 6px #9e00b3;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-">
-  VoltBTC is a user-friendly platform built on the Starknet blockchain that lets people grow their Bitcoin (BTC) through decentralized finance (DeFi) without needing to leave the Bitcoin ecosystem. It offers features like automated vaults that optimize earnings (2–10% annual returns), fixed-term BTC bonds (5–15% returns for 7, 30, or 90 days), and a strategy marketplace where users can create, share, or follow custom investment plans. The platform is secure, transparent, and non-custodial, meaning users always control their funds, with all actions handled by open-source smart contracts. It also includes a built-in learning section to teach beginners about DeFi, uses modern tech like React and Next.js for a smooth experience, and keeps transaction fees low (under $0.10) with fast confirmations. In short, VoltBTC makes it easy for anyone to earn more BTC safely and learn about DeFi in one place.
-</div>
-
-
+<img src="Project details and workflow images\summary.png" alt="summary"/>
 
 ---
 ### Website Screenshots
