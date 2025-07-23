@@ -1,0 +1,176 @@
+VoltBTC Project Overview
+=======================
+
+1. What is VoltBTC?
+-------------------
+VoltBTC is a website and app that helps you grow your Bitcoin (WBTC) using the latest technology called DeFi (Decentralized Finance). It runs on Starknet, which is a fast, low-fee blockchain built on top of Ethereum.
+
+2. What is DeFi?
+----------------
+DeFi stands for Decentralized Finance. It means you can use financial services (like saving, earning interest, or trading) without a bank. Everything happens with code (smart contracts) on the blockchain, so it’s open and transparent.
+
+3. What is WBTC?
+----------------
+WBTC means "Wrapped Bitcoin." It’s a special version of Bitcoin that works on Ethereum and Starknet. 1 WBTC = 1 BTC, but you can use it in DeFi apps like VoltBTC.
+
+4. What is a Vault?
+-------------------
+A vault is like a smart, automated savings account. You put your WBTC in, and the vault uses different strategies to help you earn more WBTC over time. You can take your money out whenever you want.
+
+5. Why Use VoltBTC?
+-------------------
+- **Earn More BTC**: Your Bitcoin works for you, earning extra yield.
+- **No Bank Needed**: You control your money, not a company or bank.
+- **Easy to Use**: Simple website, just connect your wallet and go.
+- **Learn as You Go**: Built-in guides explain everything in plain English.
+- **Safe and Transparent**: All actions are on the blockchain, so you can see and verify everything.
+
+6. Unique Features (What Makes VoltBTC Special)
+-----------------------------------------------
+- **Automatic Strategies**: The app can choose the best way to earn for you, or you can pick your own.
+- **Bonds**: Lock your BTC for a set time (like a fixed deposit) to earn even more.
+- **Marketplace**: See what strategies other users are using and copy them if you like.
+- **Forecasting**: Try out “what if” scenarios to see how much you could earn.
+- **Education**: Learn about DeFi, Bitcoin, and how to use the app, all in one place.
+
+7. How Does VoltBTC Work? (Step by Step)
+----------------------------------------
+1. **Connect Your Wallet**: Use a Starknet wallet like Braavos or ArgentX. This is like logging in, but you keep control of your money.
+2. **Deposit WBTC**: Put your WBTC into the app’s vault. This is your starting balance.
+3. **Choose a Strategy**: Let the app pick for you (automatic), or choose your own (manual), or mix both (hybrid).
+4. **Earn Yield**: The app moves your WBTC into different DeFi protocols to earn more BTC for you.
+5. **Track Your Growth**: See your balance and earnings in real time on the dashboard.
+6. **Withdraw Anytime**: Take your WBTC out whenever you want, no penalties.
+7. **Try Bonds**: For even higher returns, lock your BTC for a set period (7, 30, or 90 days).
+8. **Learn and Explore**: Use the Learn section to understand DeFi, Bitcoin, and how VoltBTC works.
+
+8. Who is VoltBTC For?
+----------------------
+- **New to DeFi?** No problem! The app is designed for beginners, with guides and simple steps.
+- **BTC Holders**: If you have Bitcoin and want to earn more, this is for you.
+- **DeFi Enthusiasts**: Try advanced strategies, create your own, or share with others.
+- **Anyone Curious**: Even if you just want to learn, you can use the education section.
+
+9. Technical Details (in Simple Terms)
+--------------------------------------
+- **Smart Contracts**: These are programs that run on the blockchain and handle your money safely.
+- **Frontend**: The website you use, built with modern tools (Next.js, React, TailwindCSS).
+- **Wallets**: You use a crypto wallet (like Braavos or ArgentX) to connect and approve actions.
+- **APIs**: The app talks to other services (like price oracles and DeFi protocols) to get the best results.
+
+10. Visual Workflow (How Money Moves)
+-------------------------------------
+1. You connect your wallet.
+2. You deposit WBTC.
+3. The app puts your WBTC into smart contracts (vaults).
+4. The vaults use strategies to earn more WBTC.
+5. You can withdraw your WBTC (plus earnings) anytime.
+6. All actions are recorded and visible on the blockchain.
+
+11. ASCII Flowchart
+-------------------
+User Wallet
+    |
+    v
+VoltBTC Website
+    |
+    v
+Smart Contracts (Vaults, Bonds)
+    |
+    v
+DeFi Protocols (Vesu, Ekubo, etc.)
+    |
+    v
+Earnings (Yield, Bonds, etc.)
+
+12. How to Use VoltBTC (A-Z)
+----------------------------
+A. **Open the Website**: Go to the VoltBTC site in your browser.
+B. **Connect Wallet**: Click 'Connect Wallet' and use Braavos or ArgentX (on Sepolia testnet).
+C. **Deposit**: Go to 'Deposit', enter how much WBTC you want to add, and confirm in your wallet.
+D. **Pick a Strategy**: Let the app choose, or pick your own from the marketplace.
+E. **Watch Your BTC Grow**: Check the dashboard for your balance and earnings.
+F. **Try Bonds**: Lock BTC for a set time for higher returns.
+G. **Forecast**: Use the forecast tool to see possible future earnings.
+H. **Withdraw**: Go to 'Withdraw', enter the amount, and confirm in your wallet.
+I. **Check History**: See all your actions in the 'History' section.
+J. **Learn**: Visit 'Learn' for easy guides and explanations.
+K. **Get Help**: If you’re stuck, check the guides or ask for help.
+
+13. Use Cases (Examples)
+------------------------
+- **Passive Saver**: Just deposit BTC and let the app do the work.
+- **Active Investor**: Try different strategies, bonds, or create your own.
+- **Learner**: Use the app to learn about DeFi and Bitcoin safely.
+- **Community Member**: Share strategies and help others.
+
+14. Tips for Beginners
+----------------------
+- Always keep a little testnet ETH in your wallet for transaction fees.
+- You can’t lose your BTC unless you withdraw or use it in a strategy.
+- The app is designed to be safe, but always double-check before confirming transactions.
+- If you’re new, start with small amounts and use the Learn section.
+
+15. Support and Safety
+----------------------
+- All your actions are on the blockchain (public and transparent).
+- If you need help, use the Learn section or open an issue on GitHub.
+- Never share your wallet’s private key or seed phrase with anyone.
+
+16. Summary
+-----------
+VoltBTC is a simple, safe, and powerful way to grow your Bitcoin using DeFi. You stay in control, you can learn as you go, and you can earn more BTC with just a few clicks. Whether you’re a beginner or an expert, VoltBTC is built for you.
+
+Enjoy your DeFi journey with VoltBTC! 
+
+
+How to Use the VoltBTC Website
+============================
+
+1. Open the Website
+-------------------
+Go to the VoltBTC website in your browser (usually http://localhost:3000 if running locally).
+
+2. Connect Your Wallet
+----------------------
+- Click the 'Connect Wallet' button (usually at the top right).
+- Use a Starknet wallet like Braavos or ArgentX.
+- Make sure your wallet is set to the Sepolia testnet.
+
+3. Deposit BTC (WBTC)
+---------------------
+- Go to the 'Deposit' page from the menu.
+- Enter the amount of WBTC you want to deposit.
+- Confirm the transaction in your wallet.
+
+4. Explore Vaults and Strategies
+--------------------------------
+- Check the 'Dashboard' to see your vault balance and performance.
+- Visit the 'Marketplace' to discover different strategies.
+- You can view details and choose strategies that fit your goals.
+
+5. Bonds and Forecasting
+------------------------
+- Try the 'Bonds' section to lock BTC for extra yield.
+- Use the 'Forecast' page to simulate potential returns.
+
+6. Withdraw Funds
+-----------------
+- Go to the 'Withdraw' page.
+- Enter the amount you want to withdraw.
+- Confirm the transaction in your wallet.
+
+7. Learn About DeFi
+-------------------
+- Visit the 'Learn' section for simple guides and explanations about DeFi and how VoltBTC works.
+
+8. Check Your History
+---------------------
+- The 'History' page shows all your past deposits, withdrawals, and other actions.
+
+Tips
+----
+- Make sure you have testnet ETH in your wallet for gas fees.
+- If you get stuck, check the 'Learn' section or ask for help!
+
+Enjoy using VoltBTC to grow your BTC on Starknet! 
